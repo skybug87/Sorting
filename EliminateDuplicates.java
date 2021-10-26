@@ -1,8 +1,4 @@
-// Class: CS 5000
-// Term: Summer 2017
-// Name: Crystal Matheny
-// Instructor: Dr. He
-// Assignment#: 4 prblem 2
+
 
 import java.util.*;
 
